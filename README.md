@@ -3,13 +3,13 @@
 ## LIGHTNING-1: Rocket Project Overview
 
 **LIGHTNING-1** is a custom-designed rocket created using the OpenRocket simulation software. This project demonstrates the capabilities of advanced rocket simulations and design.
+ 
+ Showcases a virtual rocket model built with precision, designed for optimal aerodynamics and high performance. This project highlights the integration of modern tools in rocket science.
 
 ---
-
-## Short Description
-LIGHTNING-1 showcases a virtual rocket model built with precision, designed for optimal aerodynamics and high performance. This project highlights the integration of modern tools in rocket science.
-
----
+<div>
+    <img src="https://github.com/ChinmayBhattt/OpenRocket/blob/main/Assests/Setup-Rocket-img.png" alt="Transparent Rocket"width="900px"/>
+</div>
 
 ## Video Showcase
 
@@ -36,15 +36,8 @@ Here are some of the key highlights of the LIGHTNING-1 project:
 Below are visuals from the project:
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/ChinmayBhattt/OpenRocket/blob/main/Assets/Transperent-Rocket-img.png" alt="Transparent Rocket" width="200px"/></td>
-      <td><img src="https://github.com/ChinmayBhattt/OpenRocket/blob/main/Assets/Setup-Rocket-img.png" alt="Rocket Setup" width="200px"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/ChinmayBhattt/OpenRocket/blob/main/Assets/Rocket-Graphical-Img.png" alt="Graphical Rocket" width="200px"/></td>
-    </tr>
-  </table>
+  <img src="https://github.com/ChinmayBhattt/OpenRocket/blob/main/Assests/Transperent-Rocket-img.png" alt="Graphical Rocket" width="500px"/>
+<img src="https://github.com/ChinmayBhattt/OpenRocket/blob/main/Assests/Rocket-Graphical-Img.png" alt="Rocket Setup" width="500px"/>
 </div>
 
 ---
@@ -57,8 +50,6 @@ Below are visuals from the project:
 **About Me:**
 Hi, I’m Chinmay Bhatt, a tech enthusiast and aspiring space engineer. I created LIGHTNING-1 to explore the possibilities of rocket design and simulation using OpenRocket. This project is my step towards mastering rocket science.
 
-### Connect with me:
-- [GitHub](https://github.com/ChinmayBhattt)
-- [LinkedIn](https://www.linkedin.com/in/chinmay-bhatt)
-- [Twitter](https://twitter.com/chinmay_bhatt)
+## 🔗 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaybhattt) [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/chinmaybhattt)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinmaybhattt) 
 
